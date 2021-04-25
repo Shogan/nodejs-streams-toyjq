@@ -1,0 +1,9 @@
+{
+    "name": "directoryobject",
+    "path": "\/path\/to\/directoryobject",
+    "type": "Directory",
+    "children": [
+        { "foo": "bar" },
+        { "foo": "bar1" }
+    ]
+}

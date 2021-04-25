@@ -1,3 +1,7 @@
+# pkg dist
+
+dist/**
+
 # Logs
 logs
 *.log
